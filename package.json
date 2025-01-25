@@ -1,0 +1,38 @@
+{
+  "name": "minimal-tone-theme",
+  "displayName": "Minimal Tone Theme",
+  "description": "Minimal Tone Theme customized from Toufiq Ahmed's Monochrome Theme",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nglehuy/minimal-tone-theme"
+  },
+  "author": {
+    "name": "Huy Le Nguyen"
+  },
+  "publisher": "nglehuy",
+  "keywords": [
+    "theme",
+    "themes",
+    "color theme",
+    "monochrome",
+    "monochrome theme",
+    "toufiq ahmed",
+    "Toufiq Ahmed"
+  ],
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Minimal Tone Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minimal Tone Theme-color-theme.json"
+      }
+    ]
+  }
+}
