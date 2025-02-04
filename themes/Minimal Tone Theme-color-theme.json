@@ -13,7 +13,7 @@
     "button.hoverBackground": "#eeffff10",
     "debugToolBar.background": "#1a1a1a",
     "diffEditor.insertedTextBackground": "#edf2d815",
-    "diffEditor.removedTextBackground": "#f7c7cb",
+    "diffEditor.removedTextBackground": "#6c2022",
     "dropdown.background": "#1a1a1a",
     "dropdown.border": "#eeffff60",
     "dropdown.foreground": "#eeffff60",
