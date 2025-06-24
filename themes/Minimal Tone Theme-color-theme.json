@@ -67,7 +67,7 @@
     "list.inactiveSelectionBackground": "#61616150",
     "list.inactiveSelectionForeground": "#88c0d0",
     "panel.background": "#1e1f22",
-    "panel.border": "#1a1a1a60",
+    "panel.border": "#eeffff10",
     "panelTitle.activeForeground": "#eeffff",
     "peekView.border": "#00000030",
     "peekViewEditor.background": "#00000000",
@@ -128,7 +128,7 @@
     "titleBar.border": "#1a1a1a60",
     "titleBar.inactiveBackground": "#1a1a1a",
     "titleBar.inactiveForeground": "#eeffff60",
-    "widget.shadow": "#00000030"
+    "widget.shadow": "#00000030",
     //"actionBar.toggledBackground": "#ffffff00",
     //"activityBar.activeBorder": "#eeffff60",
     //"activityBar.dropBorder": "#eeffff60",
